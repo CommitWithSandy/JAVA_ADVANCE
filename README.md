@@ -13,6 +13,7 @@ A comprehensive repository for Java Training, covering Core Java, JDBC, Hibernat
 | **`Hibernate/`** | Hibernate ORM framework configuration, sessions, transactions, and persistence. |
 | **`Mapping/`** | Entity relationship mappings and JPA/Hibernate annotations. |
 | **`ONEtoMANY/`** | One-to-Many relationship implementation examples. |
+| **`ManyToOne/`** | Many-to-One relationship implementation examples. |
 | **`MANYtoMANY/`** | Many-to-Many relationship implementation examples. |
 | **`Library MS/`** | Library Management System project. |
 | **`Projects/`** | Standalone console & utility projects (e.g., Contact Book Application). |
